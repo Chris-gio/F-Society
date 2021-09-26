@@ -1,2 +1,1 @@
-# F-Society
-fsociety est un cadre de test d'intrusion composé de tous les outils de test d'intrusion dont un pirate a besoin. Il comprend tous les outils impliqués dans la série. Mr Robot
+A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at fsociety-team/fsociety
